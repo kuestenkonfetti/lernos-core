@@ -22,6 +22,7 @@
 * **Infrastruktur**
 
 ## K
+* **Kata**
 * **Kollaboration**<br/>Kollaboration ist die Zusammenarbeit von Personen oder Gruppen von Personen (Wikipedia).
 * **Kommunikation**<br/>Kommunikation ist der Austausch oder die Übertragung von Informationen, die auf verschiedenen Arten (verbal, nonverbal) oder verschiedenen Wegen (Sprechen, Schreiben) stattfinden kann (Wikipedia).
 * **Kompetenz**<br/>ability to apply knowledge and skills to achieve intended results (ISO 9001:2015).
